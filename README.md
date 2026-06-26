@@ -6,13 +6,13 @@ A premium, responsive SaaS landing page for **NeuralFlow**, an AI-powered data a
 
 ## 🚀 Live Demo
 
-**Website:** [https://your-live-link.vercel.app](https://srikarl123.github.io/NeuralFLow/)
+**Website:** (https://srikarl123.github.io/NeuralFLow/)
 
 ---
 
 ## 📂 GitHub Repository
 
-[https://github.com/yourusername/neuralflow](https://github.com/SrikarL123/NeuralFlow)
+(https://github.com/SrikarL123/NeuralFlow)
 
 ---
 
