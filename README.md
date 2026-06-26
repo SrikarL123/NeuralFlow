@@ -215,7 +215,7 @@ This project was created for a frontend engineering assessment and is intended f
 
 # 📸 Preview
 
-*(Add a screenshot of your landing page here after deployment.)*
+![NeuralFlow Landing Page](./page_1.png)
 
 ---
 
